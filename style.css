@@ -5,6 +5,7 @@
   border-width: 5px;
   border-color: darkcyan;
 }
+
 .header {
   color: blueviolet;
   text-align: center;
@@ -15,6 +16,7 @@
   border-color: white;
   padding: 5px;
 }
+
 .center {
   display: block;
   margin-right: auto;
@@ -26,6 +28,7 @@
   padding-bottom: 50px;
   padding-left: 50px; 
 }
+
 .writing {
   color: darkcyan;
   text-align: center;
