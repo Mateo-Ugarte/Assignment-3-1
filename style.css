@@ -1,0 +1,27 @@
+.Early-Years {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+  color: blueviolet;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 50%;
+  width: 50%;  
+}
+
+.writing {
+  color: darkcyan;
+  text-align: center;
+  font-size: 35px;
+  border-style: dotted dashed solid double;
+  border: 15px;
+}
